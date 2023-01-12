@@ -11,4 +11,4 @@ Pueden hacer lo que quieran...
 Este es un mensaje editado completamente desde GitHub
 
 
-otro agregado desde GitHub
+Se modifico la linea que estaba para entrar en conflicto
